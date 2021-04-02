@@ -1,4 +1,4 @@
-package net.bewitchmentplus.api;
+package net.bwlogic.api;
 
 import net.minecraft.entity.EntityGroup;
 

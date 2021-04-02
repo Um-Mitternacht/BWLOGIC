@@ -1,4 +1,4 @@
-package net.bewitchmentplus;
+package net.bwlogic;
 
 import net.fabricmc.api.ModInitializer;
 import org.apache.logging.log4j.LogManager;
@@ -27,8 +27,8 @@ import org.apache.logging.log4j.Logger;
 //ZIIREV SVIV, YVZIRMT SLHGRORGRVH
 //GSVB DROO YV NVG DRGS DIZGS
 
-public class BewitchmentPlus implements ModInitializer {
-	public static final String MODID = "bwplus";
+public class BWLogic implements ModInitializer {
+	public static final String MODID = "bwlogic";
 	public static final Logger logger = LogManager.getLogger(MODID);
 
 	@Override

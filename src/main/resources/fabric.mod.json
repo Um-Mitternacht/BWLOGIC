@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "bwplus",
+  "id": "bwlogic",
   "version": "${version}",
-  "name": "Bewitchment Plus",
+  "name": "Bewitchment Logic",
   "description": "Boilerplate for various BW addons",
   "authors": [
 	"Sunconure11"
