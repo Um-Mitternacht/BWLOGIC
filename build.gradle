@@ -70,10 +70,6 @@ repositories {
 		url = "https://jitpack.io"
 	}
     maven {
-        name "requiem"
-        url "https://dl.bintray.com/ladysnake/mods"
-    }
-    maven {
         url 'https://repo.repsy.io/mvn/gandiber/geckolib'
     }	
 }
@@ -110,7 +106,6 @@ dependencies {
     modRuntime "io.github.ladysnake:requiem:${requiem_version}"
     modImplementation "com.github.emilyploszaj:step-height-entity-attribute:${step_height_version}"
     include "com.github.emilyploszaj:step-height-entity-attribute:${step_height_version}"
-    modImplementation "io.github.ladysnake:PlayerAbilityLib:${pal_version}"
 
 }
 
