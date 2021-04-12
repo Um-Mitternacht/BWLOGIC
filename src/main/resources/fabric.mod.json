@@ -21,6 +21,11 @@
   },
   "mixins": [
   ],
+  "custom": {
+	"modmenu": {
+	  "parent": "bewitchment"
+	}
+  },
   "depends": {
 	"fabricloader": ">=0.7.4",
 	"fabric": "*",
