@@ -2,7 +2,7 @@ package net.bwlogic.api;
 
 import net.minecraft.entity.EntityGroup;
 
-public class BWPAPI {
+public class BWLAPI {
 
 	@SuppressWarnings("InstantiationOfUtilityClass")
 	public static final EntityGroup ANGEL = new EntityGroup();
