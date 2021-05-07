@@ -6,7 +6,10 @@ public class BWLAPI {
 
 	@SuppressWarnings("InstantiationOfUtilityClass")
 	public static final EntityGroup ANGEL = new EntityGroup();
+	@SuppressWarnings("InstantiationOfUtilityClass")
 	public static final EntityGroup FAE = new EntityGroup();
+	@SuppressWarnings("InstantiationOfUtilityClass")
 	public static final EntityGroup SPIRIT = new EntityGroup();
+	@SuppressWarnings("InstantiationOfUtilityClass")
 	public static final EntityGroup ELDRITCH = new EntityGroup();
 }
