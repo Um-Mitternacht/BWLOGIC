@@ -11,5 +11,5 @@ public class BWLAPI {
 	@SuppressWarnings("InstantiationOfUtilityClass")
 	public static final EntityGroup SPIRIT = new EntityGroup();
 	@SuppressWarnings("InstantiationOfUtilityClass")
-	public static final EntityGroup ELDRITCH = new EntityGroup();
+	public static final EntityGroup ENIGMATIC = new EntityGroup();
 }
